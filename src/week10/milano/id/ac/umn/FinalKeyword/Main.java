@@ -1,5 +1,5 @@
-package week10.milano.id.ac.umn;
-
+package week10.milano.id.ac.umn.FinalKeyword;
+/*
 final double  pi = 3.14;
 
 public class a {
@@ -22,4 +22,4 @@ public class b extends a {
     //method
 }
 
-
+*/
