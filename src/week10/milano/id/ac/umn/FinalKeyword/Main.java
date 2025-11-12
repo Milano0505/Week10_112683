@@ -23,3 +23,9 @@ public class b extends a {
 }
 
 */
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.print("Contoh Final Keyword");
+    }
+}
