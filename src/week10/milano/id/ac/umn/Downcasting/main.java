@@ -1,4 +1,4 @@
-package week10.milano.id.ac.umn;
+package week10.milano.id.ac.umn.Downcasting;
 
 public class main {
     public static void main(String[] args) {

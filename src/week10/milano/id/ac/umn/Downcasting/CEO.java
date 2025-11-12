@@ -1,6 +1,6 @@
-package week10.milano.id.ac.umn;
+package week10.milano.id.ac.umn.Downcasting;
 
-public class CEO extends Pekerja{
+public class CEO extends Pekerja {
     public CEO() {}
     public void tanyaIdentitas() {
         System.out.println("Saya seorang CEO");
